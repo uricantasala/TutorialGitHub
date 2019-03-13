@@ -1,2 +1,2 @@
 # TutorialGitHub
-Intro a GitHub
+Intro a GitHub de la Salle
